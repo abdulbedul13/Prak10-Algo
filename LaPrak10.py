@@ -121,7 +121,8 @@ def mulai():
             pilihan6()
 
         elif pilihan == "7":
-            print("[7. EXIT]\nTERIMA KASIH!")
+            print("[7. EXIT]")
+            print("TERIMA KASIH!")
             break
         else:
             print("Pilih 1, 2, 3, 4, 5, 6 atau 7 untuk keluar\n")
